@@ -1,0 +1,17 @@
+
+.DS_Store
+
+
+.venv/
+venv/
+ENV/
+
+
+__pycache__/
+*.py[cod]
+
+
+*.xlsx
+*.csv
+raw_data.txt
+processing_log.txt
