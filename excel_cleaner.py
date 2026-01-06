@@ -15,7 +15,6 @@ Features:
 - Deduplicates data
 - Generates logs of processing
 
-Author: Your Name
 """
 
 import re
